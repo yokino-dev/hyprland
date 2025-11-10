@@ -1,0 +1,2 @@
+# hyprland
+arquivos de configuração
